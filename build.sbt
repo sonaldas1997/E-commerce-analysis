@@ -1,4 +1,4 @@
-name := "kafkaStreaming"
+name := "E-commerce-analysis"
 
 version := "0.1"
 
